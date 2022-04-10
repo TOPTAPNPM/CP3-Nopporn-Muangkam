@@ -1,1 +1,10 @@
+FE = 69
+GB = 78
+ICS = 62
+CP = 64
 
+print("--- Your Score ---")
+print("Foundation English : ",FE)
+print("General Business   : ", GB)
+print("Introduction to Computer Systems : ",ICS)
+print("Computer Programming : ", CP)
